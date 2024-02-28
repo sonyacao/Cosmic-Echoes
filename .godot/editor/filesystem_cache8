@@ -1,9 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1709095647
+::res://::1709159225
+BG.gd::GDScript::-1::1709157735::0::1::::<>ParallaxBackground<>::
+BG.tscn::PackedScene::8818390529958582905::1709159066::0::1::::<><>::res://BG.gd<>uid://db6nvjsmx5t85::::res://sunny-land/assets/environment/360_F_369070220_1I6c86vNmjqGuDv2wgVn8u5qunEUjWZb.jpg<>uid://de5fw64nmixc3::::res://sunny-land/assets/environment/Surface_Layer1.png
 icon.svg::CompressedTexture2D::27885055348202867::1709081823::1709083655::1::::<><>::
 main.gd::GDScript::-1::1709084276::0::1::::<>Node2D<>::
-main.tscn::PackedScene::1773678341600804251::1709095532::0::1::::<><>::res://main.gd
-world.tscn::PackedScene::1496852931595782150::1709095532::0::1::::<><>::uid://bhcqsvsvswbuc::::res://Player/Player.tscn
+main.tscn::PackedScene::1773678341600804251::1709159066::0::1::::<><>::res://main.gd<>uid://dxvxur2xeni5v::::res://BG.tscn
+world.tscn::PackedScene::1496852931595782150::1709159066::0::1::::<><>::uid://bhcqsvsvswbuc::::res://Player/Player.tscn
 ::res://Music by Ansimuz/::1709084757
 dark-happy-world.ogg::AudioStreamOggVorbis::6160682131061411736::1695166021::1709084711::1::::<><>::
 Going Up.ogg::AudioStreamOggVorbis::7223450598795114155::1695166037::1709084711::1::::<><>::
@@ -20,20 +22,34 @@ walkyandtalky.ogg::AudioStreamOggVorbis::5596961370243647627::1695167800::170908
 music-pascal-public-license.txt::TextFile::-1::1695104837::0::1::::<><>::
 platformer_level03.mp3::AudioStreamMP3::7224066769481623689::1480830560::1709084711::1::::<><>::
 platformer_level03_loop.ogg::AudioStreamOggVorbis::5902795607526531507::1477721120::1709084711::1::::<><>::
-::res://Player/::1709095532
-Player.gd::GDScript::-1::1709092057::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::2882876092617895838::1709095532::0::1::::<><>::uid://csplooagmapd5::::res://Sunny-land-files/Graphical Assets/spritesheets/astronaut.png
-::res://sunny-land/::1709084672
-::res://sunny-land/assets/::1709084672
+::res://Player/::1709159066
+Player.gd::GDScript::-1::1709156543::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::2882876092617895838::1709159066::0::1::::<><>::res://Player/Player.gd<>uid://csplooagmapd5::::res://Sunny-land-files/Graphical Assets/spritesheets/astronaut.png
+::res://sunny-land/::1709158981
+::res://sunny-land/assets/::1709158981
 ::res://sunny-land/assets/atlas/::1709084672
 atlas-props.json::JSON::-1::1709084621::0::1::::<><>::
 atlas-props.png::CompressedTexture2D::5266441742827218814::1709084621::1709084621::1::::<><>::
 atlas.json::JSON::-1::1709084621::0::1::::<><>::
 atlas.png::CompressedTexture2D::8551611292407758945::1709084621::1709084621::1::::<><>::
-::res://sunny-land/assets/environment/::1709084672
+::res://sunny-land/assets/environment/::1709159229
+360_F_308250958_Qrl0NFhhx5cdjP35MU1XBoR6FT3rARUQ.jpg::CompressedTexture2D::3698951348769014685::1709159229::1709159229::1::::<><>::
+360_F_369070220_1I6c86vNmjqGuDv2wgVn8u5qunEUjWZb.jpg::CompressedTexture2D::7294273928764949292::1709158976::1709158976::1::::<><>::
+alienworld_preview.jpg::CompressedTexture2D::7308835891361383544::1496264954::1709158636::1::::<><>::
+alienworld_preview.png::CompressedTexture2D::734059215158125880::1496263615::1709158635::1::::<><>::
+alienworld_tileset.jpg::CompressedTexture2D::7081477202720326839::1496264906::1709158635::1::::<><>::
+alienworld_tileset.png::CompressedTexture2D::683536586002568012::1496263592::1709158635::1::::<><>::
 back.png::CompressedTexture2D::8066471055037264321::1709084621::1709084621::1::::<><>::
+background.png::CompressedTexture2D::3869282104694228907::1486259033::1709158230::1::::<><>::
+clouds-transparent.png::CompressedTexture2D::3046636470338706940::1423120149::1709158230::1::::<><>::
+clouds.png::CompressedTexture2D::738081380495506941::1423120133::1709158230::1::::<><>::
 collision.png::CompressedTexture2D::2855257167694049660::1709084621::1709084621::1::::<><>::
+desert-backgorund.png::CompressedTexture2D::4832142218809118182::1423121232::1709158230::1::::<><>::
 middle.png::CompressedTexture2D::5213067673784397890::1709084621::1709084621::1::::<><>::
+Surface_Layer1.png::CompressedTexture2D::7502293304313186204::1605555482::1709158635::1::::<><>::
+Surface_Layer2.png::CompressedTexture2D::5026200585331909724::1605555694::1709158635::1::::<><>::
+Surface_Layer3.png::CompressedTexture2D::7857521314896512918::1605555716::1709158635::1::::<><>::
+Surface_Layer4.png::CompressedTexture2D::2437837174763362863::1605556462::1709158635::1::::<><>::
 tileset.png::CompressedTexture2D::8189757222766307343::1709084621::1709084621::1::::<><>::
 ::res://sunny-land/assets/maps/::1709084672
 map.json::JSON::-1::1709084621::0::1::::<><>::

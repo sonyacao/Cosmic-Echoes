@@ -1,7 +1,11 @@
+ParallaxLayer
+ParallaxBackground
+AnimationPlayer
+AnimationTree
+Camera2D
 CollisionShape2D
 Sprite2D
 Node2D
-AnimationPlayer
 Panel
 StaticBody2D
 AnimatedSprite2D
