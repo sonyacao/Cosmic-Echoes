@@ -21,3 +21,6 @@ tooltip_text = "This is the quit button
 "
 text = "Quit
 "
+
+[connection signal="pressed" from="Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
