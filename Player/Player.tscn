@@ -1,7 +1,7 @@
 [gd_scene load_steps=22 format=3 uid="uid://bhcqsvsvswbuc"]
 
 [ext_resource type="Script" path="res://Player/Player.gd" id="1_m78aa"]
-[ext_resource type="Texture2D" uid="uid://csplooagmapd5" path="res://Sunny-land-files/Graphical Assets/spritesheets/astronaut.png" id="1_uacqd"]
+[ext_resource type="Texture2D" uid="uid://csplooagmapd5" path="res://Assets/spritesheets/astronaut.png" id="1_uacqd"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_wqk4o"]
 radius = 8.0
@@ -269,7 +269,9 @@ animation = &"Idle"
 metadata/_edit_lock_ = true
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(1.6, 1.6)
+zoom = Vector2(1.4, 1.4)
+limit_left = 0
+limit_top = 0
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 root_node = NodePath("../AnimationTree")

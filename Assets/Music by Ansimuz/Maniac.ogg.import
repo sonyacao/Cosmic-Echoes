@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dgalko2puwl4s"
+path="res://.godot/imported/Maniac.ogg-0c6fa00163286abf930172b896b51915.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Music by Ansimuz/Maniac.ogg"
+dest_files=["res://.godot/imported/Maniac.ogg-0c6fa00163286abf930172b896b51915.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
