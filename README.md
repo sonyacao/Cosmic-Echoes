@@ -11,7 +11,7 @@ Arrow Keys to navigate
 ## Installation
 To play **Cosmic Echoes**, follow these simple steps:
 
-1. Download the latest release from the GitHub repository:
+1. Download the latest release from the GitHub repository: https://github.com/sonyacao/Cosmic-Echoes/tree/main
 2. Extract the downloaded files to your desired location.
 3. Run the executable file to launch the game (only available as an .exe for Windows)
 
