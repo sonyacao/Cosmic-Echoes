@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1709330001
+::res://::1709342817
 BG.gd::GDScript::-1::1709319812::0::1::::<>ParallaxBackground<>::
-BG.tscn::PackedScene::8818390529958582905::1709329540::0::1::::<><>::res://BG.gd<>uid://db6nvjsmx5t85::::res://Assets/sunny-land/assets/environment/360_F_369070220_1I6c86vNmjqGuDv2wgVn8u5qunEUjWZb.jpg<>uid://de5fw64nmixc3::::res://Assets/sunny-land/assets/environment/Surface_Layer1.png
-main.gd::GDScript::-1::1709324266::0::1::::<>Node2D<>::
-main.tscn::PackedScene::1773678341600804251::1709329540::0::1::::<><>::res://main.gd<>uid://dxvxur2xeni5v::::res://BG.tscn
-Slime.gd::GDScript::-1::1709329533::0::1::::<>CharacterBody2D<>::
-Slime.tscn::PackedScene::7671495223028686581::1709329540::0::1::::<><>::res://Slime.gd<>uid://b4hd25wjf3v2u::::res://Assets/Slimes/slime_die.png<>uid://dm045hxvcbi57::::res://Assets/Slimes/slime_jump.png<>uid://b8tdq8su5idl0::::res://Assets/Slimes/slime_idle3.png
-world.tscn::PackedScene::1496852931595782150::1709329662::0::1::::<><>::uid://bhcqsvsvswbuc::::res://Player/Player.tscn<>uid://j0d0ol22g6ro::::res://Assets/sunny-land/assets/environment/alienworld_tileset.png<>res://BG.gd<>uid://dhwjik2sdfdmw::::res://Assets/sunny-land/assets/environment/istockphoto-1408686018-612x612 1.png<>uid://dhken106licvt::::res://Slime.tscn
+BG.tscn::PackedScene::8818390529958582905::1709340989::0::1::::<><>::res://BG.gd<>uid://db6nvjsmx5t85::::res://Assets/sunny-land/assets/environment/360_F_369070220_1I6c86vNmjqGuDv2wgVn8u5qunEUjWZb.jpg<>uid://de5fw64nmixc3::::res://Assets/sunny-land/assets/environment/Surface_Layer1.png
+main.gd::GDScript::-1::1709337600::0::1::::<>Node2D<>::
+main.tscn::PackedScene::1773678341600804251::1709340989::0::1::::<><>::res://main.gd<>uid://dxvxur2xeni5v::::res://BG.tscn
+Slime.gd::GDScript::-1::1709335426::0::1::::<>CharacterBody2D<>::
+Slime.tscn::PackedScene::7671495223028686581::1709340989::0::1::::<><>::res://Slime.gd<>uid://b4hd25wjf3v2u::::res://Assets/Slimes/slime_die.png<>uid://dm045hxvcbi57::::res://Assets/Slimes/slime_jump.png<>uid://b8tdq8su5idl0::::res://Assets/Slimes/slime_idle3.png
+world.tscn::PackedScene::1496852931595782150::1709340989::0::1::::<><>::uid://bhcqsvsvswbuc::::res://Player/Player.tscn<>uid://j0d0ol22g6ro::::res://Assets/sunny-land/assets/environment/alienworld_tileset.png<>res://BG.gd<>uid://dhwjik2sdfdmw::::res://Assets/sunny-land/assets/environment/istockphoto-1408686018-612x612 1.png<>uid://dhken106licvt::::res://Slime.tscn<>uid://c2qqx7dgpifg0::::res://Collectables/Cherry.tscn
 ::res://Assets/::1709323328
 ::res://Assets/environment/::1709319836
 tileset.png::CompressedTexture2D::4506501178322554952::1709084635::1709319807::1::::<><>::
@@ -192,8 +192,11 @@ instructions.png::CompressedTexture2D::8267301588059008524::1709084621::17093198
 loading.png::CompressedTexture2D::6171515808473652793::1709084621::1709319807::1::::<><>::
 press-enter-text.png::CompressedTexture2D::5886168289943894024::1709084621::1709319807::1::::<><>::
 title-screen.png::CompressedTexture2D::2174309121839209536::1709084621::1709319807::1::::<><>::
-::res://Global/::1709329756
-Game.gd::GDScript::-1::1709330014::0::1::::<>Node<>::
-::res://Player/::1709329541
-Player.gd::GDScript::-1::1709329538::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::2882876092617895838::1709329540::0::1::::<><>::res://Player/Player.gd<>uid://csplooagmapd5::::res://Assets/spritesheets/astronaut.png
+::res://Collectables/::1709340989
+Cherry.tscn::PackedScene::6701984420496704809::1709340989::0::1::::<><>::uid://000bdkit0lde::::res://Assets/sprites/cherry/cherry-1.png<>uid://duggsli68np6m::::res://Assets/sprites/cherry/cherry-2.png<>uid://d0cga82amo40h::::res://Assets/sprites/cherry/cherry-3.png<>uid://gx4k78uc3enu::::res://Assets/sprites/cherry/cherry-4.png<>uid://f6vx6l6ukxq4::::res://Assets/sprites/cherry/cherry-5.png<>uid://oqewbnvq3xui::::res://Assets/sprites/cherry/cherry-6.png<>uid://b7q5np72xljiv::::res://Assets/sprites/cherry/cherry-7.png
+::res://Global/::1709336934
+Game.gd::GDScript::-1::1709336928::0::1::::<>Node<>::
+Utils.gd::GDScript::-1::1709336928::0::1::::<>Node<>::
+::res://Player/::1709340989
+Player.gd::GDScript::-1::1709336928::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::2882876092617895838::1709340989::0::1::::<><>::res://Player/Player.gd<>uid://csplooagmapd5::::res://Assets/spritesheets/astronaut.png

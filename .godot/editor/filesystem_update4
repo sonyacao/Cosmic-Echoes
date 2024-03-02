@@ -1,11 +1,6 @@
-res://Slime.tscn
 res://main.tscn
 res://BG.tscn
 res://world.tscn
 res://Player/Player.tscn
-res://Slime.gd
-res://Player/Player.gd
-res://Global/Game.gd
-res://Global/Utils.gd
-res://main.gd
+res://Slime.tscn
 res://Collectables/Cherry.tscn
