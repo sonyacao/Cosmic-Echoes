@@ -11,9 +11,9 @@ Arrow Keys to navigate
 ## Installation
 To play **Cosmic Echoes**, follow these simple steps:
 
-1. Download the latest release from the GitHub repository: https://github.com/sonyacao/Cosmic-Echoes/tree/main
+1. Download the zip file by clicking Code -> Download Zip from the GitHub repository: https://github.com/sonyacao/Cosmic-Echoes/tree/main
 2. Extract the downloaded files to your desired location.
-3. Run the executable file to launch the game (only available as an .exe for Windows)
+3. Open the Export Files folder and run the executable file "Cosmic Echoes.exe" to launch the game (only available as an .exe for Windows)
 
 ## Development
 **Cosmic Echoes** is developed using the Godot game engine, a powerful and versatile tool for creating 2D and 3D games
